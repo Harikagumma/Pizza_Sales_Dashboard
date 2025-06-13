@@ -23,8 +23,16 @@ Added Daily and Monthly Trend for Total Orders.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Excel (Data preprocessing)
+
+##  Dashboard Previews
+
+###  Overall Sales Dashboard
+![Overview](overview.png)
+
+### Top and bottom Selling Pizzas
+![Top & Bottom Selling Items](top_bottom_selling_items.png)
